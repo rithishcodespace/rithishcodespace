@@ -3,12 +3,6 @@
 ![](./public/Coder%20Boy%20Deep.gif)
 
 <p align="left">
-  <a href="https://portfolio.rithish.site/" title="Live Portfolio: portfolio.rithish.site">
-    <img src="./public/portfolio.png" width="38" alt="Portfolio Logo" style="vertical-align:middle;" />
-  </a>&nbsp;&nbsp;
-  <a href="https://portfolio.rithish.site/">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio.rithish.site-4F46E5?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/rithishcodespace">
     <img src="https://komarev.com/ghpvc/?username=rithishcodespace&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
   </a>
