@@ -1,6 +1,12 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I’m <a href="https://github.com/rithishcodespace" title="Rithish S" style="text-decoration:none; color:#4F46E5;">Rithish</a></h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I’m <a href="https://portfolio.rithish.site/" title="Visit my personal portfolio 🌐" style="text-decoration:none; color:#4F46E5;">Rithish S</a></h1>
 
 ![](./public/Coder%20Boy%20Deep.gif)
+
+<p align="left">
+  <a href="https://github.com/rithishcodespace">
+    <img src="https://komarev.com/ghpvc/?username=rithishcodespace&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/rithish-saravanan-32a39431a/"><picture><img width="32" src="./public/social-media/linkedin.svg" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
@@ -12,13 +18,13 @@
 ## Talking about Personal Stuffs:
 <img width="55%" align="right" alt="Github" src="./public/github-journey.svg">
 
-- 👨🏽‍💻 I’m currently working on **scalable backend systems, distributed services, and AI-powered applications**;
+- 👨🏽‍💻 I’m currently architecting **scalable backend systems, distributed services, and AI-powered workflows**;
 - 🤖 Specialized in **Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP)**;
-- ⚡️ Open Source: **ESLint Core Contributor** ([PR #21218](https://github.com/eslint/eslint/pull/21218)) – fixed IEEE 754 precision rule for numeric literals;
-- 🏆 Problem Solving: Solved **1200+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks;
-- 🥇 Hackathon Winner: **1st Place** at IEEE DevSpark Hackathon (Plantera AI) & **1st Place** at BIT Hackathon;
-- 🌱 I’m currently exploring **advanced Agentic workflows, vector search systems, and high-concurrency microservices**;
-- 💬 Ask me about **Node.js, TypeScript, Python, C++, Java, RAG pipelines, Redis BullMQ, and System Design**;
+- ⚡️ Open Source: **ESLint Core Contributor** ([PR #21218](https://github.com/eslint/eslint/pull/21218)) – resolved IEEE 754 floating-point underflow precision rule;
+- 🏆 Problem Solving: Solved **1200+ DSA problems** across LeetCode (Rank Top 1.5%), CodeChef, and GeeksforGeeks;
+- 🥇 Hackathon Champion: **1st Place** at IEEE DevSpark Hackathon (Plantera AI) & **1st Place** at BIT Hackathon;
+- 🌱 Exploring **Agentic workflows, vector embeddings, high-throughput microservices, and Kubernetes orchestration**;
+- 💬 Ask me about **Node.js, TypeScript, Python, C++, Java, RAG architectures, Redis BullMQ, and System Design**;
 - 📫 How to reach me: **rithishcodespace@gmail.com**;
 
 ## Languages and Tools:
@@ -67,13 +73,40 @@
   <picture><img width="5%" src="./public/languages-and-tools/ollama.svg" alt="Ollama Local Models" title="Ollama Local Models"></picture>
 </p>
 
-## Current Projects
-- 🧠 **[PatentIQ](https://github.com/rithishcodespace)** – AI Prior-Art & RAG Engine built with Fastify, Python, PostgreSQL, Pinecone, and Ollama (Qwen2.5) for semantic patent claims retrieval and novelty assessments.
-- 💾 **[DB Backup CLI](https://github.com/rithishcodespace/db-backup-cli)** – Cross-platform CLI for automated database backup/restore across PostgreSQL, MySQL, MongoDB, SQLite with Redis/BullMQ distributed job processing and AWS S3 storage.
-- 🌿 **[Plantera](https://github.com/The-Plantera/Plantera-Web)** – AI-Powered environmental monitoring & deforestation detection using satellite imagery and machine learning. (Secured 1st Place among 120+ teams at IEEE DevSpark Hackathon)
-- 🛍️ **[Humming Tone](https://github.com/GowthamCD6/Humming-Tone)** – Production-ready e-commerce platform with secure authentication, RBAC, Redis caching, modular services, and automated order workflows.
-- ⚡ **[ESLint Core PR #21218](https://github.com/eslint/eslint/pull/21218)** – Merged open-source fix to ESLint's `no-loss-of-precision` rule, handling IEEE 754 floating-point underflow for subnormal numeric literals.
-- 🤝 **[DevTinder](https://github.com/rithishcodespace/DevTinder)** – Developer networking platform featuring JWT authentication, match/connection requests, and scalable REST APIs.
-- 🎓 **[SSG Faculty & Project Portal](https://github.com/rithishcodespace)** – Full-stack Project Management Portal & Faculty Reward Points Dashboard built for Students Special Group with React, Node.js, and MySQL.
+## 👨‍💻 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/rithishcodespace/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/rithishcodespace?theme=dark&ext=heatmap">
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/rithishcodespace?theme=light&ext=heatmap">
+      <img src="https://leetcard.jacoblin.cool/rithishcodespace?theme=dark&ext=heatmap" alt="Rithish's LeetCode Stats" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/rithishcodespace/"><img src="https://img.shields.io/badge/LeetCode-1198+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Solved" /></a>&nbsp;
+  <a href="https://leetcode.com/u/rithishcodespace/"><img src="https://img.shields.io/badge/Global_Rank-%2318516-orange?style=flat-square&logo=target&logoColor=white" alt="Global Rank" /></a>&nbsp;
+  <a href="https://leetcode.com/u/rithishcodespace/"><img src="https://img.shields.io/badge/Top-1.5%25-00b8a3?style=flat-square&logo=speedtest&logoColor=white" alt="Top Percentile" /></a>
+</p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake.svg"><img src="./public/github-snake.svg" alt="snake animation" width="100%"></picture></p>
+## Featured Repositories & Projects
+- 🤖 **[DocuRAG](https://github.com/rithishcodespace/DocuRAG)** – Document-based RAG system extracting and processing PDF documents, persisting vector embeddings locally, supporting incremental document ingestion, and enabling LLM-powered question answering.
+- ⚡ **[PatentIQ](https://github.com/rithishcodespace/PatentIQ)** – Automated patent prior-art search engine using semantic vector search with Pinecone and local LLM embeddings (Qwen2.5) for technical novelty and claims analysis.
+- 🧬 **[RAGForge](https://github.com/rithishcodespace/RAGForge)** – Modular Retrieval-Augmented Generation pipeline using recursive chunking, ChromaDB vector storage, similarity search, and LLM-based contextual generation.
+- 🔌 **[MCP_bot](https://github.com/rithishcodespace/MCP_bot)** – Autonomous assistant leveraging the Model Context Protocol (MCP) to bridge LLMs with external tools, APIs, and file systems.
+- 💾 **[db-backup-cli](https://github.com/rithishcodespace/db-backup-cli)** – Self-hosted cross-platform database backup orchestration CLI for PostgreSQL, MySQL, MongoDB, and SQLite with BullMQ distributed queues, AES-256 encryption, and AWS S3 storage.
+- ☸️ **[microservices-ci-cd-orchestrator](https://github.com/rithishcodespace/microservices-ci-cd-orchestrator)** – End-to-end CI/CD orchestration system for microservices using GitHub Actions, featuring dynamic test filtering, multi-language pipelines, and GitOps deployments.
+- 📊 **[node-monitoring-k8s](https://github.com/rithishcodespace/node-monitoring-k8s)** – Kubernetes microservice observability stack with Prometheus and Grafana for metrics collection and health visualization.
+- 🌿 **[Plantera](https://github.com/The-Plantera/Plantera-Web)** – AI-Powered environmental monitoring & deforestation detection using satellite imagery and machine learning (Secured 1st Place among 120+ teams at IEEE DevSpark Hackathon).
+- 🛠️ **[eslint](https://github.com/rithishcodespace/eslint)** – Core open-source contributor ([PR #21218](https://github.com/eslint/eslint/pull/21218)) fixing IEEE 754 precision edge cases for numeric literals in ESLint.
+- 🌐 **[portfolio](https://github.com/rithishcodespace/portfolio)** – Personal interactive developer portfolio ([Live at portfolio.rithish.site](https://portfolio.rithish.site/)) built with modern React, showcasing projects, systems architecture, and skills.
+- 🏆 **[DSA-JAVA](https://github.com/rithishcodespace/DSA-JAVA)** – Curated repository with comprehensive Java solutions for 1200+ algorithm and data structure problems.
+- 🤝 **[DevTinder](https://github.com/rithishcodespace/DevTinder)** – Developer networking platform featuring JWT authentication, user matching, connection requests, and RESTful APIs.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake.svg" width="100%">
+  </picture>
+</p>
