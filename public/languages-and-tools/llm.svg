@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="url(#llm-grad)"/>
+  <defs>
+    <linearGradient id="llm-grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Sparkles / Neural Intelligence -->
+  <path d="M16 6C16 10.5 12 14.5 7.5 14.5C12 14.5 16 18.5 16 23C16 18.5 20 14.5 24.5 14.5C20 14.5 16 10.5 16 6Z" fill="#FFFFFF"/>
+  <path d="M23 7C23 9 21.2 10.8 19.2 10.8C21.2 10.8 23 12.6 23 14.6C23 12.6 24.8 10.8 26.8 10.8C24.8 10.8 23 9 23 7Z" fill="#C4B5FD"/>
+  <path d="M9 19C9 20.6 7.6 22 6 22C7.6 22 9 23.4 9 25C9 23.4 10.4 22 12 22C10.4 22 9 20.6 9 19Z" fill="#A7F3D0"/>
+</svg>

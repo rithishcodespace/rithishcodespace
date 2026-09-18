@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#18181B"/>
+  <!-- Ollama llama minimalist silhouette -->
+  <path d="M12 8C12 7.44772 12.4477 7 13 7H15C15.5523 7 16 7.44772 16 8V12H19C20.1046 12 21 12.8954 21 14V21H19V25H17V21H14V25H12V14C12 13.5 12.2 13 12.5 12.6V8Z" fill="#FFFFFF"/>
+  <circle cx="14" cy="9.5" r="0.75" fill="#18181B"/>
+  <circle cx="17.5" cy="14" r="0.75" fill="#18181B"/>
+</svg>

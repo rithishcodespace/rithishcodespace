@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#0C2340"/>
+  <!-- Pinecone diamond geometry -->
+  <path d="M16 6L21 11L16 16L11 11L16 6Z" fill="#22C55E"/>
+  <path d="M11 11L16 16L11 21L6 16L11 11Z" fill="#16A34A"/>
+  <path d="M21 11L26 16L21 21L16 16L21 11Z" fill="#15803D"/>
+  <path d="M16 16L21 21L16 26L11 21L16 16Z" fill="#4ADE80"/>
+</svg>
