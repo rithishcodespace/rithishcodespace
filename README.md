@@ -104,10 +104,10 @@
 - 🏆 **[DSA-JAVA](https://github.com/rithishcodespace/DSA-JAVA)** – Curated repository with comprehensive Java solutions for 1200+ algorithm and data structure problems.
 - 🤝 **[DevTinder](https://github.com/rithishcodespace/DevTinder)** – Developer networking platform featuring JWT authentication, user matching, connection requests, and RESTful APIs.
 
+## Outside the Code
+
+Farming, animals, and a little time away from the terminal.
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rithishcodespace/rithishcodespace/output/github-snake.svg" width="100%">
-  </picture>
+  <img src="./assets/farm.gif" alt="Life Outside the Code - Peaceful Farm" width="780" />
 </p>
