@@ -207,7 +207,11 @@
 
 ## Outside the Code
 
-Farming, animals, and a little time away from the terminal.
+> *"When the terminal cools down and the last background daemon exits, I disappear into the mud and grass. I spend hours hanging out with farm animals—who, for the record, make fantastic confidants and have surprisingly strong opinions on life—getting dirt under my fingernails, and marveling at the sheer, unscripted magic of things just growing.*  
+>  
+> *No stack traces. No race conditions. Just the smell of wet earth, wandering chickens, cold morning winds, and a quiet, ancient heartbeat that no algorithm could ever simulate.*  
+>  
+> *Silicon feeds my mania, but the farm is where I remember I'm human."*
 
 <p align="center">
   <img src="./assets/farm.gif" alt="Life Outside the Code - Peaceful Farm" width="780" />
