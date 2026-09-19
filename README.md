@@ -17,16 +17,102 @@
 <a href="https://wa.me/919952252304" title="WhatsApp"><picture><img width="32" src="./public/social-media/whatsapp.svg" alt="WhatsApp"></picture></a>&nbsp;&nbsp;
 
 ## About Me
-<img width="52%" align="right" alt="Developer Journey" src="./public/github-journey.svg">
 
-- 👨🏽‍💻 I’m currently architecting **scalable backend systems, distributed services, and AI-powered workflows**;
-- 🤖 Specialized in **Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP)**;
-- ⚡️ Open Source: **ESLint Core Contributor** ([PR #21218](https://github.com/eslint/eslint/pull/21218)) – resolved IEEE 754 floating-point underflow precision rule;
-- 🏆 Problem Solving: Solved **1200+ DSA problems** across LeetCode (Rank Top 1.5%), CodeChef, and GeeksforGeeks;
-- 🥇 Hackathon Champion: **1st Place** at IEEE DevSpark Hackathon (Plantera AI) & **1st Place** at BIT Hackathon;
-- 🌱 Exploring **Agentic workflows, vector embeddings, high-throughput microservices, and Kubernetes orchestration**;
-- 💬 Ask me about **Node.js, TypeScript, Python, C++, Java, RAG architectures, Redis BullMQ, and System Design**;
-- 📫 How to reach me: **rithishcodespace@gmail.com**;
+<p align="center">
+  <img src="./public/github-journey.svg" alt="Developer Journey" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio.rithish.site/"><img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_AI-4F46E5?style=flat-square&logo=target&logoColor=white" alt="Focus" /></a>&nbsp;
+  <a href="https://github.com/eslint/eslint/pull/21218"><img src="https://img.shields.io/badge/Open_Source-ESLint_Core_Contributor-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint Core" /></a>&nbsp;
+  <a href="https://leetcode.com/u/rithishcodespace/"><img src="https://img.shields.io/badge/DSA-1200%2B_Solved_(Top_1.5%25)-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
+  <a href="https://github.com/The-Plantera/Plantera-Web"><img src="https://img.shields.io/badge/Hackathons-2x_1st_Place_Winner-D97706?style=flat-square&logo=codeforces&logoColor=white" alt="Hackathons" /></a>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ Architecture &amp; Distributed Systems</h4>
+      <ul>
+        <li>Architecting <b>high-throughput backend services</b>, event-driven pipelines, and distributed microservices.</li>
+        <li>Specialized in <b>Redis BullMQ</b> for asynchronous job orchestration, worker concurrency, and rate limiting.</li>
+        <li>Designing for <b>fault tolerance</b>, graceful degradation, circuit breakers, and idempotent processing.</li>
+        <li>Polyglot data layer across relational (<b>PostgreSQL, MySQL, SQLite</b>) and NoSQL/In-Memory (<b>MongoDB, Redis</b>).</li>
+      </ul>
+      <code>Distributed Systems</code> &bull; <code>BullMQ</code> &bull; <code>Fastify</code> &bull; <code>Microservices</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Agentic AI, RAG &amp; MCP</h4>
+      <ul>
+        <li>Building production-grade agentic workflows with Anthropic's <b>Model Context Protocol (MCP)</b>.</li>
+        <li>Engineering semantic retrieval pipelines using <b>RAG, Pinecone, ChromaDB</b>, and local <b>Ollama (Qwen 2.5)</b>.</li>
+        <li>Developing autonomous agents with dynamic tool execution, memory persistence, and context compaction.</li>
+        <li>Author of <b>DocuRAG</b>, <b>PatentIQ</b>, and <b>MCP_bot</b> production AI architectures.</li>
+      </ul>
+      <code>MCP</code> &bull; <code>RAG</code> &bull; <code>Pinecone</code> &bull; <code>Ollama</code> &bull; <code>LangChain</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Open Source &amp; Compilers</h4>
+      <ul>
+        <li><b>ESLint Core Contributor:</b> Merged <a href="https://github.com/eslint/eslint/pull/21218"><b>PR #21218</b></a> resolving IEEE 754 precision underflow edge cases in numeric literal lint rules.</li>
+        <li><b>AST Traversal:</b> Deep understanding of JavaScript/TypeScript Abstract Syntax Trees, visitor patterns, and static verification.</li>
+        <li><b>Code Health:</b> Actively maintaining open-source CLI tools, backup utilities, and developer productivity libraries.</li>
+      </ul>
+      <code>ESLint Core</code> &bull; <code>AST Traversal</code> &bull; <code>Static Analysis</code> &bull; <code>Compilers</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Competitive Programming &amp; DSA</h4>
+      <ul>
+        <li><b>1200+ Problems Solved:</b> Consistent problem solver across <b>LeetCode, CodeChef, and GeeksforGeeks</b>.</li>
+        <li><b>Global Rank Top 1.5%:</b> Global Rank <b>#18516</b> on LeetCode with 300+ days active daily streak.</li>
+        <li><b>Algorithmic Depth:</b> Author of comprehensive <a href="https://github.com/rithishcodespace/DSA-JAVA"><b>DSA-JAVA</b></a> repository covering advanced Graph theory, Dynamic Programming, and Tries.</li>
+      </ul>
+      <code>LeetCode Top 1.5%</code> &bull; <code>1200+ Solved</code> &bull; <code>Dynamic Programming</code> &bull; <code>Java</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🥇 Hackathons &amp; Rapid Prototyping</h4>
+      <ul>
+        <li><b>1st Place – IEEE DevSpark:</b> Built <b>Plantera AI</b>, an environmental intelligence platform analyzing satellite imagery for deforestation detection.</li>
+        <li><b>1st Place – BIT Hackathon:</b> Designed and deployed end-to-end full-stack AI automation architectures in under 36 hours.</li>
+        <li><b>Rapid Shipping:</b> Proven track record of taking ideas from whiteboard sketches to tested, deployed MVPs at breakneck speed.</li>
+      </ul>
+      <code>Hackathon Winner</code> &bull; <code>Plantera AI</code> &bull; <code>Rapid Prototyping</code> &bull; <code>Full-Stack</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☸️ Cloud Native, DevOps &amp; Observability</h4>
+      <ul>
+        <li><b>Container Orchestration:</b> Multi-container deployments using <b>Docker, Kubernetes</b>, custom ingress, and Nginx reverse proxies.</li>
+        <li><b>Cluster Observability:</b> Production monitoring stack with <b>Prometheus</b> metric scrapers, <b>Grafana</b> dashboards, and automated alerting.</li>
+        <li><b>Automated CI/CD:</b> Architected GitOps pipelines with dynamic test matrices and automated multi-architecture Docker image builds.</li>
+      </ul>
+      <code>Kubernetes</code> &bull; <code>Docker</code> &bull; <code>Prometheus</code> &bull; <code>Grafana</code> &bull; <code>GitOps</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌱 Currently Exploring &amp; Researching</h4>
+      <ul>
+        <li><b>Multi-Agent Swarms:</b> Investigating agent-to-agent consensus loops, tool mediation, and self-correcting task graphs.</li>
+        <li><b>High-Performance Systems:</b> Benchmarking <b>Bun</b> runtimes and exploring systems programming in <b>Rust</b> for microsecond latency.</li>
+        <li><b>Vector Search Optimization:</b> Experimenting with HNSW vs IVFPQ vector index optimizations and contextual rerankers.</li>
+      </ul>
+      <code>Multi-Agent Swarms</code> &bull; <code>Bun / Rust</code> &bull; <code>Vector Quantization</code> &bull; <code>HNSW</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 Collaboration &amp; Let's Connect</h4>
+      <ul>
+        <li><b>Open For:</b> High-impact Software Engineering roles, Backend &amp; AI systems discussions, and Open Source contributions.</li>
+        <li><b>Ask Me About:</b> Distributed architectures, RAG pipelines, Redis BullMQ, AST analysis, and DSA problem-solving.</li>
+        <li><b>Direct Reach:</b> Drop a message at <a href="mailto:rithishcodespace@gmail.com"><b>rithishcodespace@gmail.com</b></a> or on <a href="https://www.linkedin.com/in/rithish-saravanan-32a39431a/"><b>LinkedIn</b></a>.</li>
+      </ul>
+      <code>Open to Collabs</code> &bull; <code>Engineering Roles</code> &bull; <code>Tech Exchanges</code>
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
