@@ -120,7 +120,7 @@
 <br clear="both"/>
 
 ## Languages and Tools:
-<a href="https://github.com/rithishcodespace"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=default"><img width="45%" align="right" alt="Rithish's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=default"></picture></a>
+<a href="https://github.com/rithishcodespace"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&line_height=38"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&line_height=38"><img width="48%" align="right" alt="Rithish's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rithishcodespace&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&line_height=38"></picture></a>
 
 <picture><img width="5%" src="./public/languages-and-tools/llm.svg" alt="LLM (Large Language Models)" title="LLM (Large Language Models)"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/rag.svg" alt="RAG (Retrieval-Augmented Generation)" title="RAG (Retrieval-Augmented Generation)"></picture>
@@ -168,6 +168,16 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./public/languages-and-tools/vercel-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/languages-and-tools/vercel-light.svg"><img width="5%" src="./public/languages-and-tools/vercel-light.svg" alt="Vercel" title="Vercel"></picture>
 
 <br clear="both"/>
+
+<p align="center">
+  <a href="https://github.com/rithishcodespace">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rithishcodespace&theme=dark&hide_border=true&border_radius=4.5">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rithishcodespace&theme=default&hide_border=true&border_radius=4.5">
+      <img src="https://streak-stats.demolab.com/?user=rithishcodespace&theme=dark&hide_border=true&border_radius=4.5" alt="Rithish's GitHub Streak Stats" />
+    </picture>
+  </a>
+</p>
 
 ## 👨‍💻 LeetCode Stats
 <p align="center">
