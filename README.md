@@ -125,9 +125,13 @@
 <picture><img width="5%" src="./public/languages-and-tools/llm.svg" alt="LLM (Large Language Models)" title="LLM (Large Language Models)"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/rag.svg" alt="RAG (Retrieval-Augmented Generation)" title="RAG (Retrieval-Augmented Generation)"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/mcp.svg" alt="MCP (Model Context Protocol)" title="MCP (Model Context Protocol)"></picture>
+<picture><img width="5%" src="./public/languages-and-tools/langchain.svg" alt="LangChain" title="LangChain"></picture>
+<picture><img width="5%" src="./public/languages-and-tools/chromadb.svg" alt="ChromaDB" title="ChromaDB"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/pinecone.svg" alt="Pinecone Vector Database" title="Pinecone Vector Database"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/ollama.svg" alt="Ollama Local Models" title="Ollama Local Models"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/python.svg" alt="Python" title="Python"></picture>
+<picture><img width="5%" src="./public/languages-and-tools/numpy.svg" alt="NumPy" title="NumPy"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./public/languages-and-tools/pandas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/languages-and-tools/pandas-light.svg"><img width="5%" src="./public/languages-and-tools/pandas-light.svg" alt="Pandas" title="Pandas"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/java.svg" alt="Java" title="Java"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/cpp.svg" alt="C++" title="C++"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/typescript.svg" alt="TypeScript" title="TypeScript"></picture>
@@ -146,11 +150,13 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./public/languages-and-tools/postgresql-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/languages-and-tools/postgresql-light.svg"><img width="5%" src="./public/languages-and-tools/postgresql-light.svg" alt="PostgreSQL" title="PostgreSQL"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/mysql.svg" alt="MySQL" title="MySQL"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/mongodb.svg" alt="MongoDB" title="MongoDB"></picture>
+<picture><img width="5%" src="./public/languages-and-tools/firebase.svg" alt="Firebase" title="Firebase"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/sqlite.svg" alt="SQLite" title="SQLite"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/redis.svg" alt="Redis" title="Redis"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/prisma.svg" alt="Prisma" title="Prisma"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/git.svg" alt="Git" title="Git"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./public/languages-and-tools/github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/languages-and-tools/github-light.svg"><img width="5%" src="./public/languages-and-tools/github-light.svg" alt="GitHub" title="GitHub"></picture>
+<picture><img width="5%" src="./public/languages-and-tools/github-actions.svg" alt="GitHub Actions" title="GitHub Actions"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/docker.svg" alt="Docker" title="Docker"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/kubernetes.svg" alt="Kubernetes" title="Kubernetes"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/nginx.svg" alt="Nginx" title="Nginx"></picture>
