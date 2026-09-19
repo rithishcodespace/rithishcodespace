@@ -26,7 +26,7 @@
   <a href="https://portfolio.rithish.site/"><img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_AI-4F46E5?style=flat-square&logo=target&logoColor=white" alt="Focus" /></a>&nbsp;
   <a href="https://github.com/eslint/eslint/pull/21218"><img src="https://img.shields.io/badge/Open_Source-ESLint_Core_Contributor-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint Core" /></a>&nbsp;
   <a href="https://leetcode.com/u/rithishcodespace/"><img src="https://img.shields.io/badge/DSA-1200%2B_Solved_(Top_1.5%25)-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
-  <a href="https://github.com/The-Plantera/Plantera-Web"><img src="https://img.shields.io/badge/Hackathons-2x_1st_Place_Winner-D97706?style=flat-square&logo=codeforces&logoColor=white" alt="Hackathons" /></a>
+  <a href="https://github.com/The-Plantera/Plantera-Web"><img src="https://img.shields.io/badge/Hackathons-4x_Winner_%26_Runner--Up-D97706?style=flat-square&logo=trophy&logoColor=white" alt="Hackathons" /></a>
 </p>
 
 <table width="100%">
@@ -74,13 +74,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🥇 Hackathons &amp; Rapid Prototyping</h4>
+      <h4>🥇 Hackathons &amp; Competitions</h4>
       <ul>
-        <li><b>1st Place – IEEE DevSpark:</b> Built <b>Plantera AI</b>, an environmental intelligence platform analyzing satellite imagery for deforestation detection.</li>
-        <li><b>1st Place – BIT Hackathon:</b> Designed and deployed end-to-end full-stack AI automation architectures in under 36 hours.</li>
-        <li><b>Rapid Shipping:</b> Proven track record of taking ideas from whiteboard sketches to tested, deployed MVPs at breakneck speed.</li>
+        <li><b>🏆 4x Hackathon Winner:</b> Champion across multiple high-stakes regional and national hackathons.</li>
+        <li><b>🥇 1st Place – IEEE DevSpark Hackathon:</b> Built <b><a href="https://github.com/The-Plantera/Plantera-Web">Plantera AI</a></b>, an environmental intelligence platform analyzing satellite imagery for deforestation detection.</li>
+        <li><b>🥇 1st Place – BIT Hackathon:</b> Designed and deployed end-to-end full-stack AI automation architectures in under 36 hours.</li>
+        <li><b>🥇 1st Place – Code-Circle Hackathon:</b> Built and shipped high-performance software solutions under rapid turnaround.</li>
+        <li><b>🥈 Runner-Up – SNS Ideathon:</b> Recognized for outstanding technical product ideation, feasibility, and system architecture.</li>
       </ul>
-      <code>Hackathon Winner</code> &bull; <code>Plantera AI</code> &bull; <code>Rapid Prototyping</code> &bull; <code>Full-Stack</code>
+      <code>4x Champion</code> &bull; <code>IEEE DevSpark</code> &bull; <code>BIT Hackathon</code> &bull; <code>Code-Circle</code> &bull; <code>SNS Ideathon</code>
     </td>
     <td width="50%" valign="top">
       <h4>☸️ Cloud Native, DevOps &amp; Observability</h4>
@@ -88,6 +90,7 @@
         <li><b>Container Orchestration:</b> Multi-container deployments using <b>Docker, Kubernetes</b>, custom ingress, and Nginx reverse proxies.</li>
         <li><b>Cluster Observability:</b> Production monitoring stack with <b>Prometheus</b> metric scrapers, <b>Grafana</b> dashboards, and automated alerting.</li>
         <li><b>Automated CI/CD:</b> Architected GitOps pipelines with dynamic test matrices and automated multi-architecture Docker image builds.</li>
+        <li><b>Infrastructure Reliability:</b> Designing self-healing systems, zero-downtime rolling updates, and health probes.</li>
       </ul>
       <code>Kubernetes</code> &bull; <code>Docker</code> &bull; <code>Prometheus</code> &bull; <code>Grafana</code> &bull; <code>GitOps</code>
     </td>
